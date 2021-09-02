@@ -1,4 +1,5 @@
 Source: kms-cmake-utils
+Section: devel
 Priority: optional
 Maintainer: Kurento <kurento@googlegroups.com>
 Uploaders: Daniel Pocock <daniel@pocock.pro>
